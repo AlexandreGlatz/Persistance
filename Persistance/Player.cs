@@ -4,10 +4,14 @@ using System.Text.Json;
 public class Player : ISaveable
 {
 	public int Hp {get;set;}
+	public VECTOR2 Position {get;set;}
+
+	CheckpointManager _checkpointManager;
 
 	public Player()
 	{
 		Hp = 20;
+		_checkpointManager = CheckpointManager.Instance;
 	}
 
 	public void Hit(int damage)
@@ -17,6 +21,9 @@ public class Player : ISaveable
 
 	public void Save(string filepath)
 	{
+		Checkpoint closest = _checkpointManager.GetClosestCheckpoint(Position);
+		Position = closest.Position;
+
 		string json = JsonSerializer.Serialize(this);
 		File.WriteAllText(filepath, json);
 	}

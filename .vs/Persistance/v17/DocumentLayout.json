@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aglatz\\Documents\\GitHub\\Persistance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72160FB3-377E-483E-9402-E433088EE76E}|Persistance\\Persistance.csproj|c:\\users\\aglatz\\documents\\github\\persistance\\persistance\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72160FB3-377E-483E-9402-E433088EE76E}|Persistance\\Persistance.csproj|solutionrelative:persistance\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72160FB3-377E-483E-9402-E433088EE76E}|Persistance\\Persistance.csproj|c:\\users\\aglatz\\documents\\github\\persistance\\persistance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72160FB3-377E-483E-9402-E433088EE76E}|Persistance\\Persistance.csproj|solutionrelative:persistance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72160FB3-377E-483E-9402-E433088EE76E}|Persistance\\Persistance.csproj|c:\\users\\aglatz\\documents\\github\\persistance\\persistance\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72160FB3-377E-483E-9402-E433088EE76E}|Persistance\\Persistance.csproj|solutionrelative:persistance\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72160FB3-377E-483E-9402-E433088EE76E}|Persistance\\Persistance.csproj|c:\\users\\aglatz\\documents\\github\\persistance\\persistance\\checkpointmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72160FB3-377E-483E-9402-E433088EE76E}|Persistance\\Persistance.csproj|solutionrelative:persistance\\checkpointmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72160FB3-377E-483E-9402-E433088EE76E}|Persistance\\Persistance.csproj|c:\\users\\aglatz\\documents\\github\\persistance\\persistance\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72160FB3-377E-483E-9402-E433088EE76E}|Persistance\\Persistance.csproj|solutionrelative:persistance\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72160FB3-377E-483E-9402-E433088EE76E}|Persistance\\Persistance.csproj|c:\\users\\aglatz\\documents\\github\\persistance\\persistance\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72160FB3-377E-483E-9402-E433088EE76E}|Persistance\\Persistance.csproj|solutionrelative:persistance\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VECTOR2.cs",
+              "DocumentMoniker": "C:\\Users\\aglatz\\Documents\\GitHub\\Persistance\\Persistance\\VECTOR2.cs",
+              "RelativeDocumentMoniker": "Persistance\\VECTOR2.cs",
+              "ToolTip": "C:\\Users\\aglatz\\Documents\\GitHub\\Persistance\\Persistance\\VECTOR2.cs",
+              "RelativeToolTip": "Persistance\\VECTOR2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:40:36.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aglatz\\Documents\\GitHub\\Persistance\\Persistance\\Program.cs",
+              "RelativeDocumentMoniker": "Persistance\\Program.cs",
+              "ToolTip": "C:\\Users\\aglatz\\Documents\\GitHub\\Persistance\\Persistance\\Program.cs",
+              "RelativeToolTip": "Persistance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:46:34.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckpointManager.cs",
+              "DocumentMoniker": "C:\\Users\\aglatz\\Documents\\GitHub\\Persistance\\Persistance\\CheckpointManager.cs",
+              "RelativeDocumentMoniker": "Persistance\\CheckpointManager.cs",
+              "ToolTip": "C:\\Users\\aglatz\\Documents\\GitHub\\Persistance\\Persistance\\CheckpointManager.cs",
+              "RelativeToolTip": "Persistance\\CheckpointManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:42:52.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\aglatz\\Documents\\GitHub\\Persistance\\Persistance\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "Persistance\\Checkpoint.cs",
+              "ToolTip": "C:\\Users\\aglatz\\Documents\\GitHub\\Persistance\\Persistance\\Checkpoint.cs",
+              "RelativeToolTip": "Persistance\\Checkpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:42:38.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\aglatz\\Documents\\GitHub\\Persistance\\Persistance\\Player.cs",
+              "RelativeDocumentMoniker": "Persistance\\Player.cs",
+              "ToolTip": "C:\\Users\\aglatz\\Documents\\GitHub\\Persistance\\Persistance\\Player.cs",
+              "RelativeToolTip": "Persistance\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:40:44.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\aglatz\\Documents\\GitHub\\Persistance\\Persistance\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Persistance\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\aglatz\\Documents\\GitHub\\Persistance\\Persistance\\SaveManager.cs",
+              "RelativeToolTip": "Persistance\\SaveManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:40:40.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

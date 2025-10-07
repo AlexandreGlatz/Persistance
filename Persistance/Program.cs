@@ -3,15 +3,28 @@ public class Program
 {
     static int Main()
     {
-        Player newPlayer = new Player();
+        SaveManager saveManager = SaveManager.Instance;
+        CheckpointManager checkpointManager = CheckpointManager.Instance;
 
-        newPlayer.Load("save.json");
+        Player newPlayer = new Player();
+        Checkpoint checkpoint1 = new Checkpoint(0,0);
+        Checkpoint checkpoint2 = new Checkpoint(100,100);
+
+        checkpointManager.Checkpoints = new List<Checkpoint>() { checkpoint1, checkpoint2 };
+        saveManager.Saveables.Add(newPlayer);
+
+        saveManager.LoadAll("save.json");
+        //newPlayer.Load("save.json");
 
         newPlayer.Hit(2);
 
-        Console.WriteLine(newPlayer.Hp.ToString());
+        newPlayer.Position = new VECTOR2(10, 10);
 
-        newPlayer.Save("save.json");
+        Console.WriteLine(newPlayer.Hp.ToString());
+        Console.WriteLine();
+
+        saveManager.SaveAll("save.json");
+        //newPlayer.Save("save.json");
 
         return 0;
     }
